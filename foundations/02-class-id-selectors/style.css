@@ -1,20 +1,19 @@
-p, div {
-    background-color: rgb(252, 137, 137);
+.para {
+    background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#id-2 {
-    background-color: white;
-    font-size: 36px;
-    color: blue;
-}
-
-.class-3 {
+.three {
     font-size: 24px;
 }
 
-#id-4 {
-    background-color: chartreuse;
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lime;
     font-size: 24px;
     font-weight: bold;
 }
