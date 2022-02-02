@@ -17,14 +17,14 @@ img {
 
 .info {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   gap: 52px;
 
 }
 
 .info div {
-  width: 200px;
+  max-width: 200px;
 }
 
 /* do not edit this footer */
